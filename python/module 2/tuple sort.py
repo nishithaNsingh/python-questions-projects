@@ -1,0 +1,5 @@
+tup=(3,6,2,8)
+#li=list(tup)
+#li.sort()
+#print(tuple(li))
+print(tuple(sorted(tup)))
